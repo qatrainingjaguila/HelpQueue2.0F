@@ -1,5 +1,4 @@
 import React from 'react';
-import qa_fill_primary from './qa_fill_primary.svg';
 import {Link} from 'react-router-dom';
 import { Button, Navbar, Nav, Form, NavDropdown, Container, Col,Row } from 'react-bootstrap';
 

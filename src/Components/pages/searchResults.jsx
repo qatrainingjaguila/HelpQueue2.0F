@@ -1,6 +1,5 @@
 import {useState, useEffect} from 'react';
 import axios from 'axios';
-import Ticket from '../Ticket';
 import SearchHit from '../SearchHit';
 
 const SearchResults = (props) => {

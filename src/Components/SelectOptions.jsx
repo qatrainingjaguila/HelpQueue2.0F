@@ -1,8 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import SiteTemplate from './pages/siteTemplate';
-import App from '../App';
-import { Switch, Route, BrowserRouter as Router, Link} from 'react-router-dom';
+import { BrowserRouter as Link} from 'react-router-dom';
 
 const SelectOptions = () => {
 

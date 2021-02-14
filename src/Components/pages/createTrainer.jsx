@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { Button, Container } from 'react-bootstrap';
-import { InputGroup } from 'react-bootstrap';
 import { Row } from 'react-bootstrap';
 import { Col } from 'react-bootstrap';
 import { Form } from 'react-bootstrap';
